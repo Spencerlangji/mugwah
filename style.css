@@ -1,0 +1,51 @@
+div {
+  background-color: lightseagreen;
+  height: 10;
+  width: 200;
+  margin-left: 200px;
+  margin-right: 80px;
+  margin-bottom: 100px;
+  margin-top: 100px;
+}
+img {
+  height: 600px;
+  width: 600px;
+}
+#left {
+  text-align: left;
+}
+
+#right {
+  color: black;
+  position: absolute;
+  top: 20%;
+  width: 50%;
+  text-align: right;
+  font-size: 100%;
+}
+#center {
+  color: black;
+  position: absolute;
+  top: 15%;
+  width: 90%;
+  text-align: center;
+  font-size: 150%;
+}
+
+#top {
+  color: black;
+  position: absolute;
+  top: 23%;
+  width: 95%;
+  text-align: center;
+  font-size: 120%;
+}
+
+#bottom {
+  color: black;
+  position: absolute;
+  top: 80%;
+  width: 95%;
+  text-align: center;
+  font-size: 120%;
+}
